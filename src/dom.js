@@ -1,5 +1,5 @@
 const dom = {
-    container : document.getElementById('app'),
+    container: document.getElementById('app'),
     input: document.getElementById('search')
 };
 
